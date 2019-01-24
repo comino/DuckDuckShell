@@ -1,5 +1,5 @@
 
-#DuckDuckShell
+# DuckDuckShell
 
 ![](./assets/digispark.png){:width="600"}
 
@@ -46,7 +46,7 @@ $ nc -nvlp 8000
 ```
 
 This will listen for incomming conncetions on port 8000, as also used in the sample code provided. .
-This is handy in case you are on the same network.  Im using it in combination with [Platypus]("https://github.com/WangYihang/Platypus") to manage my reverse shell connections. 
+This is handy in case you are on the same network.  Im using it in combination with [Platypus](https://github.com/WangYihang/Platypus) to manage my reverse shell connections. 
 
 
 
